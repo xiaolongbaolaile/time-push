@@ -12,11 +12,17 @@
     "birthday2": "1998-04-14",
     "birthday3": "1997-01-03",
     "love_date": "2017-05-11",
-    "Whether_Eng": "\u5426",
+    "Whether_Eng": "False",
     "astro": "\u6469\u7faf\u5ea7",
     "caihongpi_API": "e1bc2b5822d783350d9fdc2159cea776",
     "lizhi_API": "e1bc2b5822d783350d9fdc2159cea776",
     "tianqi_API": "e1bc2b5822d783350d9fdc2159cea776",
     "health_API": "e1bc2b5822d783350d9fdc2159cea776",
-    "lucky_API": "e1bc2b5822d783350d9fdc2159cea776"
+    "lucky_API": "e1bc2b5822d783350d9fdc2159cea776",
+    "Whether_caihongpi": false,
+    "Whether_lizhi": false,
+    "Whether_tip": false,
+    "Whether_health": false,
+    "Whether_lucky": false,
+    "tianxing_API": "e1bc2b5822d783350d9fdc2159cea776"
 }
